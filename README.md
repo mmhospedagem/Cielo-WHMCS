@@ -1,6 +1,6 @@
 # Gateway Cielo WHMCS
 
-Este repositorio e gratuito e sera atualizado sempre que nos tivermos um tempinho! 
+Este repositorio e gratuito e sera atualizado sempre que tivermos um tempinho! 
 Para reportar bugs ou solicitar alguma novidade nos envie um ticket www.mmhospedagem.com.br
 
 O que já possui o modulo?
