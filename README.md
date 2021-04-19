@@ -5,7 +5,7 @@ Para reportar bugs ou solicitar alguma novidade nos envie um ticket www.mmhosped
 
 O que já possui o modulo?
 
-- Cartão de dedibo
+- Cartão de dedito
 - Retorno automatico
 
 O que sera desenvolvido?
