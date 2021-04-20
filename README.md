@@ -5,11 +5,10 @@ Para reportar bugs ou solicitar alguma novidade nos envie um ticket www.mmhosped
 
 O que já possui o modulo?
 
-- Cartão de debito
-- Retorno automatico
-
 O que sera desenvolvido?
 
+- Cartão de debito
+- Retorno automatico
 - Cartão de credito
 - Tokenização 
 - Devolução de pagamento pelo gateway
